@@ -19,4 +19,4 @@ we only have group of two and a small project, because all three parts is all ba
 + Mar.22-Mar.29 satrt the covertion part,include(toInt,toFloat)maybe ceil,floor,round if we have time
 + Mar.29-Apr.5 start the SIMD part, test the compatibility with all other functions involved with floating type.
 + Apr.5-Apr.12 do some packageup work, make instruction of compile it, summarize the test case and finish our presentation preparation, clear all work we left in the last few weeks.
-###### note:the presentation slides and testcase,resourses we refer to will be edit at same time in the weekly schedule.
+###### note:the presentation slides and testcase,resourses we refer to will be edit at every week. 
